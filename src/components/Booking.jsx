@@ -7,10 +7,11 @@ const Booking = () => {
             <div className='flex flex-col my-2 py-2'>
                 <label>Destination</label>
                 <select name=''id='' className='lg:w-[300px] md:w-full border rounded-md p-2'>
-                    <option> Aswan</option>
-                    <option> Luxor</option>
-                    <option> Aswan</option>
-                    <option> Aswan</option>
+                    <option> Aswan </option>
+                    <option> Luxor </option>
+                    <option> Cairo </option>
+                    <option> Giza </option>
+                    <option> Alexandria </option>
                 </select>
             </div>
             <div className='flex w-full'>
