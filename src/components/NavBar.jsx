@@ -14,9 +14,6 @@ const handleNav = () => {
                 <a href='/'>Home</a>
             </li>
             <li>
-                <a href='#gallery'>Gallery</a>
-            </li>
-            <li>
                 <a href='#deals'>Deals</a>
             </li>
             <li>
@@ -38,9 +35,6 @@ const handleNav = () => {
             <ul className='h-full w-full text-center pt-12'>
             <li className='text-xl py-8'>
                 <a href='/'>Home</a>
-            </li>
-            <li className='text-xl py-8'>
-                <a href='#gallery'>Gallery</a>
             </li>
             <li className='text-xl py-8'>
                 <a href='#deals'>Deals</a>
