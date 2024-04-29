@@ -9,7 +9,7 @@ const Background = () => {
         />
         <div className='max-w-[1140px] m-auto'>
             <div className='absolute top-[40%] w-full h-full md:-[50%] max-w-[600px] flex flex-col text-white p-4 '>
-                <h1 className='font-bold text-xl'> Find Your Special Trip</h1>
+                <h1 className='font-bold text-xl'> Discover Egypt </h1>
                 <h2 className='py-4 italic'> With Egypt Ryokou</h2>
                 <p>
                     Lorem ipsum, dolor sit amet consectetur adipisicing elit. 
