@@ -10,7 +10,7 @@ import TopBar from "./components/TopBar";
 function App() {
   return (
     <div>
-      < TopBar />
+      {/* < TopBar /> */}
       < NavBar/>
       < Background/>
       < Activities/>
