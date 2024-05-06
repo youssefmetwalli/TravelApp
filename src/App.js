@@ -21,7 +21,6 @@ function App() {
          < NavBar />
          < Background />
          <Activities/>   
-         < Booking />
          < Contact />
          < Footer />
        </div>
